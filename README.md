@@ -6,3 +6,5 @@
 `Prerequisites` 
 
 `html css js express.js node.js react.js json`
+
+<img src = "public/preview_robots.png ">
